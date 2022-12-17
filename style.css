@@ -22,13 +22,14 @@ body {
 }
 
 .header {
-    background-color: rgb(245, 245, 220);
+    /* background-color: #f5f5dc; */
+    background-color: #395b50;
 }
 
 .container {
     max-width: 1440px;
     margin: 0 auto;
-    min-height: 50px;
+    min-height: 45px;
 }
 
 .main {
@@ -45,7 +46,8 @@ body {
     position: relative;
     padding: 0;
     margin-bottom: 20px;
-    color: rgb(211, 159, 48);
+    /* color: #d39f30; */
+    color: #1F2F16;
     font-size: 32px;
     font-weight: 300;
     letter-spacing: 10px;
@@ -61,7 +63,8 @@ body {
     margin-left: -150px;
     width: 300px;
     height: 2px;
-    background-color: rgb(233, 233, 198);
+    /* background-color: #e9e9c6; */
+    background-color: #395b50;
 }
 
 .section-subtitle {
@@ -74,18 +77,20 @@ body {
 
 .a-button {
     text-decoration: none;
-    color: black;
-    background: rgb(255, 255, 215);
-    border: 0.5px solid rgba(0, 0, 0, 0.39);
+    color: #e4e4e4;
+    /* background: #ffffd7; */
+    background: #395b50;
+    border: 0.5px solid #00000063;
     transition: .5s linear;
-    padding: 10px;
+    padding: 6px 8px;
     font-size: 18px;
     border-radius: 8px;
     margin-right: 5px;
 }
 
 .a-button:hover {
-    background: rgb(249, 255, 172);
+    /* background: #f9ffac; */
+    background: #558072;
 }
 
 .nav-list {
@@ -99,7 +104,7 @@ body {
     width: calc(50% - 20px);
     padding: 10px;
     padding-bottom: 35px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #000000;
 }
 
 .section-end {
@@ -113,7 +118,7 @@ body {
     justify-content: space-around;
     width: 100%;
     padding: 50px 30px 35px;
-    border-bottom: 15px solid rgb(245, 245, 220);
+    border-bottom: 15px solid #395b50;
 }
 
 .section-profile-logo {
@@ -121,7 +126,7 @@ body {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    box-shadow: 0 1px 4px #00000099;
     filter: grayscale(0.2) brightness(1.05);
     transition: .3s;
 }
@@ -141,7 +146,7 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: rgb(211, 159, 48);
+    color: #395b50;
 }
 
 .section-item {
@@ -175,7 +180,7 @@ body {
 }
 
 .footer {
-    background-color: rgb(245, 245, 220);
+    background-color: #395b50;
     padding: 20px;
 }
 
@@ -198,9 +203,13 @@ body {
 }
 
 .github {
-    color: black;
+    color: white;
     text-decoration: none;
     line-height: 45px;
+}
+
+.div-year {
+    color: white;  
 }
 
 .rss {
