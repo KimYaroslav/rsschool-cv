@@ -2,8 +2,8 @@
 Junior Frontend Developer
 ***
 ### Contact information:
-Phone: +8 775 8818206  
-E-mail: Korean_mafia_01@gmail.com  
+Phone: +7 775 8818206  
+E-mail: Korean_mafia_01@mail.ru  
 Telegram: @koreeckrg
 ***
 ### About me:  
