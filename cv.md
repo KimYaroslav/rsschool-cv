@@ -33,17 +33,17 @@ The code asks a login from user and checks it:
 
         let userlogin = prompt('Enter your login:');
         if (userlogin == "Admin") {
-            let adminpassword = prompt('Enter Admin's password:');
-            if (adminpassword == 'I'm Admin') {
+            let adminpassword = prompt(`Enter Admin's password:`);
+            if (adminpassword == `I'm Admin`) {
                 alert('Hello, Admin!');
-            } else if (adminpassword !== 'I'm Admin' && adminpassword !== ('') && adminpassword !== null) {
+            } else if (adminpassword !== `I'm Admin` && adminpassword !== ('') && adminpassword !== null) {
                 alert('Wrong password!');
             } else if (adminpassword == null) {
                 alert('Of course you are mistaken :)');
             } else ('You didn't enter anything!')
         }
         else if (userlogin !== "Админ" && Boolean(userlogin)) {
-            alert('I don't know you!');
+            alert(`I don't know you!`);
         } else {
             alert('Canceled');
         }
