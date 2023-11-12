@@ -53,7 +53,7 @@ The code asks a login from user and checks it:
 "RS School stage 0" tasks:  
 1) [CV](https://github.com/KimYaroslav/rsschool-cv/tree/gh-pages)  
 2) [plants](https://github.com/rolling-scopes-school/kimyaroslav-JSFEPRESCHOOL2022Q4/tree/plants-part3)  
-3) [momentum](https://github.com/rolling-scopes-school/kimyaroslav-JSFEPRESCHOOL2022Q4/tree/momentum/momentum)
+3) [momentum](https://github.com/rolling-scopes-school/kimyaroslav-JSFEPRESCHOOL2022Q4/tree/momentum/momentum)  
 ***
 ### Courses:
 1) RS School course "JavaScript/Front-end. Stage 0" ([certificate](https://app.rs.school/certificate/2ojen9fs))  
