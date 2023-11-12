@@ -10,7 +10,8 @@ Telegram: @koreeckrg
 - Since childhood I was interested in electronics, in particular computers, so I am a confident PC user. Recently I got interested in Frontend-development, because I can immediately see the result of my efforts. I have no coding experience, but I have a great desire to learn new profession. While working in commerce I have gained experience in teamwork and conflict resolution. From personal qualities I would like to note attention to detail, the ability to listen and a love of order.  
 
 - MAR 04 2023 I successfully completed the course "JS / FE Pre-School 2022Q4" ([certificate](https://app.rs.school/certificate/2ojen9fs))  
-- MAR 05 2023 I started studying the course "JavaScript/Front-end 2023Q1"
+- MAR 05 2023 I started studying the course "JavaScript/Front-end 2023Q1", but didn’t finish it due to family reasons.  
+- NOV 05 2023 I started studying the course "JavaScript/Front-end 2023Q4".
 ***
 ### Skills and Proficiency:  
 - Basic HTML and CSS
@@ -56,7 +57,8 @@ The code asks a login from user and checks it:
 ***
 ### Courses:
 1) RS School course "JavaScript/Front-end. Stage 0" ([certificate](https://app.rs.school/certificate/2ojen9fs))  
-2) RS School course "JavaScript/Front-end 2023Q1" (in progress)
+2) RS School course "JavaScript/Front-end 2023Q1" (not finished)  
+3) RS School course "JavaScript/Front-end 2023Q4" (in progress)
 ***
 ### Languages:
 Russian: Native  
