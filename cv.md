@@ -1,10 +1,10 @@
 # Yaroslav Kim
-Junior Frontend Developer
+Junior Frontend Developer  
 ***
 ### Contact information:
 Phone: +7 775 8818206  
 E-mail: Korean_mafia_01@mail.ru  
-Telegram: @koreeckrg
+Telegram: @koreeckrg  
 ***
 ### About me:  
 - Since childhood I was interested in electronics, in particular computers, so I am a confident PC user. Recently I got interested in Frontend-development, because I can immediately see the result of my efforts. I have no coding experience, but I have a great desire to learn new profession. While working in commerce I have gained experience in teamwork and conflict resolution. From personal qualities I would like to note attention to detail, the ability to listen and a love of order.  
@@ -19,7 +19,7 @@ Telegram: @koreeckrg
 - Basic VS code
 - Basic JavaScript
 - Microsoft Excel
-- 1С
+- 1С  
 ***
 ### Code example:
 I solved this task on the "learn.javascript.ru".  
